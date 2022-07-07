@@ -120,4 +120,5 @@ def retrieveEntitites(project_id,location,text):
 aux_text = quickstart(project,loc,id_processor,pdf_file)
 translated_text=translate_text("en",aux_text)
 result_nlp = retrieveEntitites(project,region,translated_text["translatedText"])
+print(result_nlp)
 
