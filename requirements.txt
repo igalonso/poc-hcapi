@@ -1,0 +1,10 @@
+# Flask Framework
+Flask
+google-api-python-client
+google-auth-httplib2
+google-auth
+google-cloud
+flask-cors
+google
+google-cloud-documentai
+google-cloud-translate
